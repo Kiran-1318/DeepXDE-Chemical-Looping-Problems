@@ -59,5 +59,4 @@ preprint connecting to PhD research in chemical looping gasification.
 
 Kiran Thammina
 M.Tech Energy Systems Engineering, IIT Bombay
-Project Engineer — Design, Organic Recycling Systems Limited
 GitHub: github.com/Kiran-1318
