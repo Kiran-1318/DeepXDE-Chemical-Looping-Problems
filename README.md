@@ -14,7 +14,7 @@ Builds the mathematical skeleton for solid-gas kinetic modelling.
 
 | # | Problem | Key skill |
 |---|---------|-----------|
-| 1 | Isothermal first-order batch reactor | ODE as physics residual, Adam + L-BFGS |
+| 1 | Isothermal first-order batch reactor | ODE as physics residual, Adam  |
 | 2 | Arrhenius temperature-dependent rate | Encoding k(T) = A·exp(−Ea/RT) in loss |
 | 3 | Non-isothermal coupled reactor | Coupled ODE system, loss weight balancing |
 
